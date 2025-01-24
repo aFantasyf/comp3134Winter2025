@@ -1,0 +1,420 @@
+Amazon
+
+Raw Whois Data
+
+Domain Name: amazon.com
+Registry Domain ID: 281209_DOMAIN_COM-VRSN
+Registrar WHOIS Server: whois.markmonitor.com
+Registrar URL: http://www.markmonitor.com
+Updated Date: 2024-09-29T09:48:15+0000
+Creation Date: 1994-11-01T05:00:00+0000
+Registrar Registration Expiration Date: 2025-10-31T00:00:00+0000
+Registrar: MarkMonitor, Inc.
+Registrar IANA ID: 292
+Registrar Abuse Contact Email: email@markmonitor.com
+Registrar Abuse Contact Phone: +1.2086851750
+Domain Status: clientUpdateProhibited (https://www.icann.org/epp#clientUpdateProhibited)
+Domain Status: clientTransferProhibited (https://www.icann.org/epp#clientTransferProhibited)
+Domain Status: clientDeleteProhibited (https://www.icann.org/epp#clientDeleteProhibited)
+Domain Status: serverUpdateProhibited (https://www.icann.org/epp#serverUpdateProhibited)
+Domain Status: serverTransferProhibited (https://www.icann.org/epp#serverTransferProhibited)
+Domain Status: serverDeleteProhibited (https://www.icann.org/epp#serverDeleteProhibited)
+Registry Registrant ID: 
+Registrant Name: Hostmaster, Amazon Legal Dept.
+Registrant Organization: Amazon Technologies, Inc.
+Registrant Street: P.O. Box 8102
+Registrant City: Reno
+Registrant State/Province: NV
+Registrant Postal Code: 89507
+Registrant Country: US
+Registrant Phone: +1.2062664064
+Registrant Phone Ext: 
+Registrant Fax: +1.2062667010
+Registrant Fax Ext: 
+Registrant Email: email@amazon.com
+Registry Admin ID: 
+Admin Name: Hostmaster, Amazon Legal Dept.
+Admin Organization: Amazon Technologies, Inc.
+Admin Street: P.O. Box 8102
+Admin City: Reno
+Admin State/Province: NV
+Admin Postal Code: 89507
+Admin Country: US
+Admin Phone: +1.2062664064
+Admin Phone Ext: 
+Admin Fax: +1.2062667010
+Admin Fax Ext: 
+Admin Email: email@amazon.com
+Registry Tech ID: 
+Tech Name: Hostmaster, Amazon Legal Dept.
+Tech Organization: Amazon Technologies, Inc.
+Tech Street: P.O. Box 8102
+Tech City: Reno
+Tech State/Province: NV
+Tech Postal Code: 89507
+Tech Country: US
+Tech Phone: +1.2062664064
+Tech Phone Ext: 
+Tech Fax: +1.2062667010
+Tech Fax Ext: 
+Tech Email: email@amazon.com
+Name Server: ns1.amzndns.net
+Name Server: ns2.amzndns.co.uk
+Name Server: ns2.amzndns.net
+Name Server: ns2.amzndns.com
+Name Server: ns2.amzndns.org
+Name Server: ns1.amzndns.co.uk
+Name Server: ns1.amzndns.com
+Name Server: ns1.amzndns.org
+DNSSEC: unsigned
+URL of the ICANN WHOIS Data Problem Reporting System: http://wdprs.internic.net/
+>>> Last update of WHOIS database: 2025-01-20T04:58:15+0000 <<<
+
+For more information on WHOIS status codes, please visit:
+  https://www.icann.org/resources/pages/epp-status-codes
+
+If you wish to contact this domain’s Registrant, Administrative, or Technical
+contact, and such email address is not visible above, you may do so via our web
+form, pursuant to ICANN’s Temporary Specification. To verify that you are not a
+robot, please enter your email address to receive a link to a page that
+facilitates email communication with the relevant contact(s).
+
+Web-based WHOIS:
+  https://domains.markmonitor.com/whois
+
+If you have a legitimate interest in viewing the non-public WHOIS details, send
+your request and the reasons for your request to email@markmonitor.com
+and specify the domain name in the subject line. We will review that request and
+may ask for supporting documentation and explanation.
+
+The data in MarkMonitor’s WHOIS database is provided for information purposes,
+and to assist persons in obtaining information about or related to a domain
+name’s registration record. While MarkMonitor believes the data to be accurate,
+the data is provided "as is" with no guarantee or warranties regarding its
+accuracy.
+
+By submitting a WHOIS query, you agree that you will use this data only for
+lawful purposes and that, under no circumstances will you use this data to:
+  (1) allow, enable, or otherwise support the transmission by email, telephone,
+or facsimile of mass, unsolicited, commercial advertising, or spam; or
+  (2) enable high volume, automated, or electronic processes that send queries,
+data, or email to MarkMonitor (or its systems) or the domain name contacts (or
+its systems).
+
+MarkMonitor reserves the right to modify these terms at any time.
+
+By submitting this query, you agree to abide by this policy.
+
+MarkMonitor Domain Management(TM)
+Protecting companies and consumers in a digital world.
+
+Visit MarkMonitor at https://www.markmonitor.com
+Contact us at +1.8007459229
+In Europe, at +44.02032062220
+----
+
+
+Walmart
+
+Raw Whois Data
+
+Domain Name: walmart.com
+Registry Domain ID: 269816_DOMAIN_COM-VRSN
+Registrar WHOIS Server: whois.corporatedomains.com
+Registrar URL: www.cscprotectsbrands.com
+Updated Date: 2024-08-26T10:56:37Z
+Creation Date: 1995-02-23T00:00:00Z
+Registrar Registration Expiration Date: 2025-09-23T19:29:40Z
+Registrar: CSC CORPORATE DOMAINS, INC.
+Sponsoring Registrar IANA ID: 299
+Registrar Abuse Contact Email: email@cscglobal.com
+Registrar Abuse Contact Phone: +1.8887802723
+Domain Status: clientTransferProhibited http://www.icann.org/epp#clientTransferProhibited
+Domain Status: serverDeleteProhibited http://www.icann.org/epp#serverDeleteProhibited
+Domain Status: serverTransferProhibited http://www.icann.org/epp#serverTransferProhibited
+Domain Status: serverUpdateProhibited http://www.icann.org/epp#serverUpdateProhibited
+
+
+youtube
+
+Raw Whois Data
+
+Domain Name: youtube.com
+Registry Domain ID: 142504053_DOMAIN_COM-VRSN
+Registrar WHOIS Server: whois.markmonitor.com
+Registrar URL: http://www.markmonitor.com
+Updated Date: 2025-01-14T10:06:34+0000
+Creation Date: 2005-02-15T05:13:12+0000
+Registrar Registration Expiration Date: 2026-02-15T00:00:00+0000
+Registrar: MarkMonitor, Inc.
+Registrar IANA ID: 292
+Registrar Abuse Contact Email: email@markmonitor.com
+Registrar Abuse Contact Phone: +1.2086851750
+Domain Status: clientUpdateProhibited (https://www.icann.org/epp#clientUpdateProhibited)
+Domain Status: clientTransferProhibited (https://www.icann.org/epp#clientTransferProhibited)
+Domain Status: clientDeleteProhibited (https://www.icann.org/epp#clientDeleteProhibited)
+Domain Status: serverUpdateProhibited (https://www.icann.org/epp#serverUpdateProhibited)
+Domain Status: serverTransferProhibited (https://www.icann.org/epp#serverTransferProhibited)
+Domain Status: serverDeleteProhibited (https://www.icann.org/epp#serverDeleteProhibited)
+Registrant Organization: Google LLC
+Registrant State/Province: CA
+Registrant Country: US
+Registrant Email: Select Request Email Form at https://domains.markmonitor.com/whois/youtube.com
+Admin Organization: Google LLC
+Admin State/Province: CA
+Admin Country: US
+Admin Email: Select Request Email Form at https://domains.markmonitor.com/whois/youtube.com
+Tech Organization: Google LLC
+Tech State/Province: CA
+Tech Country: US
+Tech Email: Select Request Email Form at https://domains.markmonitor.com/whois/youtube.com
+Name Server: ns1.google.com
+Name Server: ns3.google.com
+Name Server: ns2.google.com
+Name Server: ns4.google.com
+DNSSEC: unsigned
+URL of the ICANN WHOIS Data Problem Reporting System: http://wdprs.internic.net/
+>>> Last update of WHOIS database: 2025-01-21T17:58:06+0000 <<<
+
+For more information on WHOIS status codes, please visit:
+  https://www.icann.org/resources/pages/epp-status-codes
+
+If you wish to contact this domain’s Registrant, Administrative, or Technical
+contact, and such email address is not visible above, you may do so via our web
+form, pursuant to ICANN’s Temporary Specification. To verify that you are not a
+robot, please enter your email address to receive a link to a page that
+facilitates email communication with the relevant contact(s).
+
+Web-based WHOIS:
+  https://domains.markmonitor.com/whois
+
+If you have a legitimate interest in viewing the non-public WHOIS details, send
+your request and the reasons for your request to email@markmonitor.com
+and specify the domain name in the subject line. We will review that request and
+may ask for supporting documentation and explanation.
+
+The data in MarkMonitor’s WHOIS database is provided for information purposes,
+and to assist persons in obtaining information about or related to a domain
+name’s registration record. While MarkMonitor believes the data to be accurate,
+the data is provided "as is" with no guarantee or warranties regarding its
+accuracy.
+
+By submitting a WHOIS query, you agree that you will use this data only for
+lawful purposes and that, under no circumstances will you use this data to:
+  (1) allow, enable, or otherwise support the transmission by email, telephone,
+or facsimile of mass, unsolicited, commercial advertising, or spam; or
+  (2) enable high volume, automated, or electronic processes that send queries,
+data, or email to MarkMonitor (or its systems) or the domain name contacts (or
+its systems).
+
+MarkMonitor reserves the right to modify these terms at any time.
+
+By submitting this query, you agree to abide by this policy.
+
+MarkMonitor Domain Management(TM)
+Protecting companies and consumers in a digital world.
+
+Visit MarkMonitor at https://www.markmonitor.com
+Contact us at +1.8007459229
+In Europe, at +44.02032062220
+--
+
+discord
+Domain Name: DISCORD.COM
+Registry Domain ID: 39993744_DOMAIN_COM-VRSN
+Registrar WHOIS Server: whois.cloudflare.com
+Registrar URL: https://www.cloudflare.com
+Updated Date: 2021-09-28T14:47:55Z
+Creation Date: 2000-11-06T11:45:38Z
+Registrar Registration Expiration Date: 2025-11-06T11:45:37Z
+Registrar: Cloudflare, Inc.
+Registrar IANA ID: 1910
+Domain Status: clientdeleteprohibited https://icann.org/epp#clientdeleteprohibited
+Domain Status: clienttransferprohibited https://icann.org/epp#clienttransferprohibited
+Domain Status: serverdeleteprohibited https://icann.org/epp#serverdeleteprohibited
+Domain Status: servertransferprohibited https://icann.org/epp#servertransferprohibited
+Domain Status: serverupdateprohibited https://icann.org/epp#serverupdateprohibited
+Domain Status: clientupdateprohibited https://icann.org/epp#clientupdateprohibited
+Registry Registrant ID:
+Registrant Name: DATA REDACTED 
+Registrant Organization: DATA REDACTED
+Registrant Street: DATA REDACTED
+Registrant City: DATA REDACTED
+Registrant State/Province: CA
+Registrant Postal Code: DATA REDACTED
+Registrant Country: US
+Registrant Phone: DATA REDACTED
+Registrant Phone Ext: DATA REDACTED
+Registrant Fax: DATA REDACTED
+Registrant Fax Ext: DATA REDACTED
+Registrant Email: https://domaincontact.cloudflareregistrar.com/discord.com
+Registry Admin ID:
+Admin Name: DATA REDACTED 
+Admin Organization: DATA REDACTED
+Admin Street: DATA REDACTED
+Admin City: DATA REDACTED
+Admin State/Province: DATA REDACTED
+Admin Postal Code: DATA REDACTED
+Admin Country: DATA REDACTED
+Admin Phone: DATA REDACTED
+Admin Phone Ext: DATA REDACTED
+Admin Fax: DATA REDACTED
+Admin Fax Ext: DATA REDACTED
+Admin Email: https://domaincontact.cloudflareregistrar.com/discord.com
+Registry Tech ID:
+Tech Name: DATA REDACTED 
+Tech Organization: DATA REDACTED
+Tech Street: DATA REDACTED
+Tech City: DATA REDACTED
+Tech State/Province: DATA REDACTED
+Tech Postal Code: DATA REDACTED
+Tech Country: DATA REDACTED
+Tech Phone: DATA REDACTED
+Tech Phone Ext: DATA REDACTED
+Tech Fax: DATA REDACTED
+Tech Fax Ext: DATA REDACTED
+Tech Email: https://domaincontact.cloudflareregistrar.com/discord.com
+Registry Billing ID:
+Billing Name: DATA REDACTED 
+Billing Organization: DATA REDACTED
+Billing Street: DATA REDACTED
+Billing City: DATA REDACTED
+Billing State/Province: DATA REDACTED
+Billing Postal Code: DATA REDACTED
+Billing Country: DATA REDACTED
+Billing Phone: DATA REDACTED
+Billing Phone Ext: DATA REDACTED
+Billing Fax: DATA REDACTED
+Billing Fax Ext: DATA REDACTED
+Billing Email: https://domaincontact.cloudflareregistrar.com/discord.com
+Name Server: gabe.ns.cloudflare.com
+Name Server: sima.ns.cloudflare.com
+DNSSEC: signedDelegation
+Registrar Abuse Contact Email: email@cloudflare.com
+Registrar Abuse Contact Phone: +1.4153197517
+URL of the ICANN WHOIS Data Problem Reporting System: http://wdprs.internic.net/
+>>> Last update of WHOIS database: 2025-01-16T23:35:18Z <<<
+
+For more information on Whois status codes, please visit https://icann.org/epp
+
+Cloudflare provides more than 13 million domains with the tools to give their global users a faster, more secure, and more reliable internet experience.
+
+NOTICE:
+
+Data in the Cloudflare Registrar WHOIS database is provided to you by Cloudflare
+under the terms and conditions at https://www.cloudflare.com/domain-registration-agreement/
+
+By submitting this query, you agree to abide by these terms.
+
+Register your domain name at https://www.cloudflare.com/registrar/
+
+H&M
+Raw Whois Data
+
+Domain Name: hm.com
+Registry Domain ID: 1942749_DOMAIN_COM-VRSN
+Registrar WHOIS Server: whois.comlaude.com
+Registrar URL: https://www.comlaude.com
+Updated Date: 2024-05-08T02:15:02Z
+Creation Date: 1997-11-14T05:00:00Z
+Registrar Registration Expiration Date: 2030-11-13T00:00:00Z
+Registrar: NOM-IQ Ltd dba Com Laude
+Registrar IANA ID: 470
+Domain Status: clientDeleteProhibited https://www.icann.org/epp#clientDeleteProhibited
+Domain Status: clientTransferProhibited https://www.icann.org/epp#clientTransferProhibited
+Domain Status: clientUpdateProhibited https://www.icann.org/epp#clientUpdateProhibited
+Domain Status: serverDeleteProhibited https://www.icann.org/epp#serverDeleteProhibited
+Domain Status: serverTransferProhibited https://www.icann.org/epp#serverTransferProhibited
+Domain Status: serverUpdateProhibited https://www.icann.org/epp#serverUpdateProhibited
+Registry Registrant ID: 
+Registrant Name: Domain Admin
+Registrant Organization: H&M Hennes & Mauritz AB
+Registrant Street: Master Samuelsgatan 46A
+Registrant City: Stockholm
+Registrant State/Province: 
+Registrant Postal Code: 10638
+Registrant Country: SE
+Registrant Phone: +46.87965500
+Registrant Phone Ext: 
+Registrant Fax: +46.8209919
+Registrant Fax Ext: 
+Registrant Email: email@hm.com
+Registry Admin ID: 
+Admin Name: Domain Admin
+Admin Organization: H&M Hennes & Mauritz AB
+Admin Street: Master Samuelsgatan 46A
+Admin City: Stockholm
+Admin State/Province: 
+Admin Postal Code: 10638
+Admin Country: SE
+Admin Phone: +46.87965500
+Admin Phone Ext: 
+Admin Fax: +46.8209919
+Admin Fax Ext: 
+Admin Email: email@hm.com
+Registry Tech ID: 
+Tech Name: H&M Domain Tech
+Tech Organization: H&M Hennes & Mauritz AB
+Tech Street: Arstaangsvagen 13
+Tech City: Stockholm
+Tech State/Province: 
+Tech Postal Code: 11775
+Tech Country: SE
+Tech Phone: +46.87965500
+Tech Phone Ext: 
+Tech Fax: 
+Tech Fax Ext: 
+Tech Email: email@hm.com
+Name Server: a1-139.akam.net
+Name Server: a11-66.akam.net
+Name Server: a28-64.akam.net
+Name Server: a5-65.akam.net
+Name Server: a12-67.akam.net
+Name Server: a8-66.akam.net
+DNSSEC: Unsigned Delegation
+Registrar Abuse Contact Email: email@comlaude.com
+Registrar Abuse Contact Phone: +44.2074218250
+URL of the ICANN WHOIS Data Problem Reporting System: http://wdprs.internic.net/
+>>> Last update of WHOIS database: 2025-01-18T09:00:14Z <<<
+
+For more information on Whois status codes, please visit https://www.icann.org/resources/pages/epp-status-codes-2014-06-16-en
+
+Please query the RDDS service of the Registrar of Record identified in this
+output for information on how to contact the Registrant, Admin, or Tech contact
+of the queried domain name.
+
+-------------------------------------------------------------------------------
+Com Laude registers, maintains and renews domain names around the world for 
+leading intellectual property owners and the law firms that support them.   
+If you have queries about this domain, you may contact us via our website   
+at www.comlaude.com.                                                        
+-------------------------------------------------------------------------------
+
+The data in the Com Laude Whois database is provided to assist you in obtaining
+information about a domain name registration record.  Com Laude makes this
+information available "as is," and does not guarantee its accuracy.
+By submitting a WHOIS query, you agree that you will use this data only for
+lawful purposes and that, under no circumstances will you use this data to:
+
+(1) allow, enable, or otherwise support the transmission of mass unsolicited,
+commercial advertising or solicitations via e-mail (spam), telephone or fax; or
+(2) enable high volume, automated, electronic processes that that send queries
+or data to Com Laude or the systems of any Registry Operator or ICANN-Accredited
+registrar.  The compilation, repackaging, dissemination or other use of this 
+data is expressly prohibited without the prior written consent of Com Laude.
+
+Com Laude reserves the right to modify these terms at any time. By submitting
+this query, you agree to abide by these terms. If you fail to abide by this
+policy, we may terminate your access to this WHOIS database.
+
+-------------------------------------------------------------------------------
+Com Laude protects intellectual property in the domain name system. Com Laude
+only registers domain names for legitimate rights owners. Should you have any 
+queries about the legitimacy of this name or our work as a UK based, ICANN 
+Accredited Registrar, contact us at:
+Com Laude, 28 Little Russell Street, London WC1A 2HN, UK.
+Com Laude is a business name of Nom IQ Ltd.
+-------------------------------------------------------------------------------
+
+
+

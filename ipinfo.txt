@@ -1,0 +1,5 @@
+amazon.ca - 52.94.225.242
+Walmart.com - 23.73.185.225
+youtube.com - 142.250.113.190
+google.com - 142.251.116.100
+facebook.com - 57.144.174.1

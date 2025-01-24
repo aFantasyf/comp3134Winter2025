@@ -1,0 +1,43 @@
+root@comp3134-Winter2025:~# nmap georgebrown.ca
+Starting Nmap 7.80 ( https://nmap.org ) at 2025-01-21 18:22 UTC
+Nmap scan report for georgebrown.ca (198.96.86.176)
+Host is up (0.0026s latency).
+Not shown: 998 filtered ports
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap done: 1 IP address (1 host up) scanned in 4.02 seconds
+root@comp3134-Winter2025:~# nmap -p 80 georgebrown.ca
+Starting Nmap 7.80 ( https://nmap.org ) at 2025-01-21 18:24 UTC
+Nmap scan report for georgebrown.ca (198.96.86.176)
+Host is up (0.0030s latency).
+rDNS record for 198.96.86.176: startgbc.com
+
+PORT   STATE SERVICE
+80/tcp open  http
+
+Nmap done: 1 IP address (1 host up) scanned in 0.05 seconds
+root@comp3134-Winter2025:~# nmap -p 22-25 georgebrown.ca
+Starting Nmap 7.80 ( https://nmap.org ) at 2025-01-21 18:25 UTC
+Nmap scan report for georgebrown.ca (198.96.86.176)
+Host is up (0.0030s latency).
+
+PORT   STATE    SERVICE
+22/tcp filtered ssh
+23/tcp filtered telnet
+24/tcp filtered priv-mail
+25/tcp filtered smtp
+
+Nmap done: 1 IP address (1 host up) scanned in 1.25 seconds
+root@comp3134-Winter2025:~# nmap -F georgebrown.ca
+Starting Nmap 7.80 ( https://nmap.org ) at 2025-01-21 18:25 UTC
+Nmap scan report for georgebrown.ca (198.96.86.176)
+Host is up (0.0028s latency).
+rDNS record for 198.96.86.176: insite.georgebrown.ca
+Not shown: 98 filtered ports
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap done: 1 IP address (1 host up) scanned in 1.76 seconds

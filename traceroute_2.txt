@@ -1,0 +1,6 @@
+$ tracert georgebrown.ca
+
+Tracing route to georgebrown.ca [198.96.86.176]
+over a maximum of 30 hops:
+
+  1     7 ms     3 ms     3 ms
