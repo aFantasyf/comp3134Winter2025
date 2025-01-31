@@ -1,0 +1,11 @@
+aayan@thinkpad:~$ sudo tcpdump -c 5 -i eth0
+tcpdump: verbose output suppressed, use -v[v]... for full protocol decode
+listening on eth0, link-type EN10MB (Ethernet), snapshot length 262144 bytes
+15:33:49.284323 ARP, Request who-has thinkpad.mshome.net tell 172.22.224.13, length 28
+15:33:49.284669 ARP, Reply thinkpad.mshome.net is-at 00:15:5d:08:a8:e7 (oui Unknown), length 28
+15:34:07.633847 IP thinkpad.mshome.net.mdns > mdns.mcast.net.mdns: 0 PTR (QU)? _microsoft_mcc._tcp.local. (43)
+15:34:07.634305 IP6 fe80::c745:565a:6333:a7f7.mdns > ff02::fb.mdns: 0 PTR (QU)? _microsoft_mcc._tcp.local. (43)
+15:34:08.695336 IP thinkpad.mshome.net.mdns > mdns.mcast.net.mdns: 0 PTR (QM)? _microsoft_mcc._tcp.local. (43)
+5 packets captured
+8 packets received by filter
+0 packets dropped by kernel

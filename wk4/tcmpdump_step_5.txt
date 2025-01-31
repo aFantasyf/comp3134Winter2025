@@ -1,0 +1,50 @@
+aayan@thinkpad:~$ sudo tcpdump -XX -i eth0
+tcpdump: verbose output suppressed, use -v[v]... for full protocol decode
+listening on eth0, link-type EN10MB (Ethernet), snapshot length 262144 bytes
+15:36:37.486883 IP6 fe80::c745:565a:6333:a7f7.55692 > ff02::c.3702: UDP, length 656
+        0x0000:  3333 0000 000c 0015 5d08 a8e7 86dd 600b  33......].....`.
+        0x0010:  f702 0298 1101 fe80 0000 0000 0000 c745  ...............E
+        0x0020:  565a 6333 a7f7 ff02 0000 0000 0000 0000  VZc3............
+        0x0030:  0000 0000 000c d98c 0e76 0298 cc92 3c3f  .........v....<?
+        0x0040:  786d 6c20 7665 7273 696f 6e3d 2231 2e30  xml.version="1.0
+        0x0050:  2220 656e 636f 6469 6e67 3d22 7574 662d  ".encoding="utf-
+        0x0060:  3822 3f3e 3c73 6f61 703a 456e 7665 6c6f  8"?><soap:Envelo
+        0x0070:  7065 2078 6d6c 6e73 3a73 6f61 703d 2268  pe.xmlns:soap="h
+        0x0080:  7474 703a 2f2f 7777 772e 7733 2e6f 7267  ttp://www.w3.org
+        0x0090:  2f32 3030 332f 3035 2f73 6f61 702d 656e  /2003/05/soap-en
+        0x00a0:  7665 6c6f 7065 2220 786d 6c6e 733a 7773  velope".xmlns:ws
+        0x00b0:  613d 2268 7474 703a 2f2f 7363 6865 6d61  a="http://schema
+        0x00c0:  732e 786d 6c73 6f61 702e 6f72 672f 7773  s.xmlsoap.org/ws
+        0x00d0:  2f32 3030 342f 3038 2f61 6464 7265 7373  /2004/08/address
+        0x00e0:  696e 6722 2078 6d6c 6e73 3a77 7364 3d22  ing".xmlns:wsd="
+        0x00f0:  6874 7470 3a2f 2f73 6368 656d 6173 2e78  http://schemas.x
+        0x0100:  6d6c 736f 6170 2e6f 7267 2f77 732f 3230  mlsoap.org/ws/20
+        0x0110:  3035 2f30 342f 6469 7363 6f76 6572 7922  05/04/discovery"
+        0x0120:  3e3c 736f 6170 3a48 6561 6465 723e 3c77  ><soap:Header><w
+        0x0130:  7361 3a54 6f3e 7572 6e3a 7363 6865 6d61  sa:To>urn:schema
+        0x0140:  732d 786d 6c73 6f61 702d 6f72 673a 7773  s-xmlsoap-org:ws
+        0x0150:  3a32 3030 353a 3034 3a64 6973 636f 7665  :2005:04:discove
+        0x0160:  7279 3c2f 7773 613a 546f 3e3c 7773 613a  ry</wsa:To><wsa:
+        0x0170:  4163 7469 6f6e 3e68 7474 703a 2f2f 7363  Action>http://sc
+        0x0180:  6865 6d61 732e 786d 6c73 6f61 702e 6f72  hemas.xmlsoap.or
+        0x0190:  672f 7773 2f32 3030 352f 3034 2f64 6973  g/ws/2005/04/dis
+        0x01a0:  636f 7665 7279 2f52 6573 6f6c 7665 3c2f  covery/Resolve</
+        0x01b0:  7773 613a 4163 7469 6f6e 3e3c 7773 613a  wsa:Action><wsa:
+        0x01c0:  4d65 7373 6167 6549 443e 7572 6e3a 7575  MessageID>urn:uu
+        0x01d0:  6964 3a63 3961 3532 3361 652d 6663 3539  id:c9a523ae-fc59
+        0x01e0:  2d34 3565 302d 6135 3565 2d64 3933 3632  -45e0-a55e-d9362
+        0x01f0:  6265 3764 6464 323c 2f77 7361 3a4d 6573  be7ddd2</wsa:Mes
+        0x0200:  7361 6765 4944 3e3c 2f73 6f61 703a 4865  sageID></soap:He
+        0x0210:  6164 6572 3e3c 736f 6170 3a42 6f64 793e  ader><soap:Body>
+        0x0220:  3c77 7364 3a52 6573 6f6c 7665 3e3c 7773  <wsd:Resolve><ws
+        0x0230:  613a 456e 6470 6f69 6e74 5265 6665 7265  a:EndpointRefere
+        0x0240:  6e63 653e 3c77 7361 3a41 6464 7265 7373  nce><wsa:Address
+        0x0250:  3e75 726e 3a75 7569 643a 3463 6365 6531  >urn:uuid:4ccee1
+        0x0260:  3764 2d36 6438 372d 3433 3231 2d61 6338  7d-6d87-4321-ac8
+        0x0270:  382d 6632 3065 6339 3337 6433 3331 3c2f  8-f20ec937d331</
+        0x0280:  7773 613a 4164 6472 6573 733e 3c2f 7773  wsa:Address></ws
+        0x0290:  613a 456e 6470 6f69 6e74 5265 6665 7265  a:EndpointRefere
+        0x02a0:  6e63 653e 3c2f 7773 643a 5265 736f 6c76  nce></wsd:Resolv
+        0x02b0:  653e 3c2f 736f 6170 3a42 6f64 793e 3c2f  e></soap:Body></
+        0x02c0:  736f 6170 3a45 6e76 656c 6f70 653e       soap:Envelope>
+15:36:37.487175 IP thinkpad.mshome.net.55691 > 239.255.255.250.3702: UDP, length 656

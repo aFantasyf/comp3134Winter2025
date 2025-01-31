@@ -1,0 +1,23 @@
+aayan@thinkpad:~$ sudo tcpdump -n -i eth0
+tcpdump: verbose output suppressed, use -v[v]... for full protocol decode
+listening on eth0, link-type EN10MB (Ethernet), snapshot length 262144 bytes
+15:39:09.697092 IP 172.22.224.1.5353 > 224.0.0.251.5353: 0 PTR (QU)? _microsoft_mcc._tcp.local. (43)
+15:39:09.697730 IP6 fe80::c745:565a:6333:a7f7.5353 > ff02::fb.5353: 0 PTR (QU)? _microsoft_mcc._tcp.local. (43)
+15:39:10.756678 IP 172.22.224.1.5353 > 224.0.0.251.5353: 0 PTR (QM)? _microsoft_mcc._tcp.local. (43)
+15:39:10.757100 IP6 fe80::c745:565a:6333:a7f7.5353 > ff02::fb.5353: 0 PTR (QM)? _microsoft_mcc._tcp.local. (43)
+15:39:13.194037 IP 172.22.224.1.5353 > 224.0.0.251.5353: 0*- [0q] 1/0/2 PTR thinkpad._dosvc._tcp.local. (763)
+15:39:13.194453 IP6 fe80::c745:565a:6333:a7f7.5353 > ff02::fb.5353: 0*- [0q] 1/0/2 PTR thinkpad._dosvc._tcp.local. (763)
+15:39:13.195150 IP 172.22.224.1.5353 > 224.0.0.251.5353: 0 ANY (QM)? thinkpad._dosvc._tcp.local. (44)
+15:39:13.195435 IP6 fe80::c745:565a:6333:a7f7.5353 > ff02::fb.5353: 0 ANY (QM)? thinkpad._dosvc._tcp.local. (44)
+15:39:13.464377 IP 172.22.224.1.5353 > 224.0.0.251.5353: 0 ANY (QM)? thinkpad._dosvc._tcp.local. (44)
+15:39:13.464696 IP6 fe80::c745:565a:6333:a7f7.5353 > ff02::fb.5353: 0 ANY (QM)? thinkpad._dosvc._tcp.local. (44)
+15:39:13.736702 IP 172.22.224.1.5353 > 224.0.0.251.5353: 0 ANY (QM)? thinkpad._dosvc._tcp.local. (44)
+15:39:13.737562 IP6 fe80::c745:565a:6333:a7f7.5353 > ff02::fb.5353: 0 ANY (QM)? thinkpad._dosvc._tcp.local. (44)
+15:39:14.008855 IP 172.22.224.1.5353 > 224.0.0.251.5353: 0*- [0q] 1/0/4 (Cache flush) PTR thinkpad._dosvc._tcp.local. (821)
+15:39:14.009872 IP6 fe80::c745:565a:6333:a7f7.5353 > ff02::fb.5353: 0*- [0q] 1/0/4 (Cache flush) PTR thinkpad._dosvc._tcp.local. (821)
+15:39:14.010350 IP 172.22.224.1.5353 > 224.0.0.251.5353: 0*- [0q] 1/0/3 (Cache flush) SRV thinkpad.local.:7680 0 0 (764)
+15:39:14.011079 IP6 fe80::c745:565a:6333:a7f7.5353 > ff02::fb.5353: 0*- [0q] 1/0/3 (Cache flush) SRV thinkpad.local.:7680 0 0 (764)
+^C
+16 packets captured
+16 packets received by filter
+0 packets dropped by kernel

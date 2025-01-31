@@ -1,0 +1,7 @@
+aayan@thinkpad:~$ sudo tcpdump -A -i eth0
+tcpdump: verbose output suppressed, use -v[v]... for full protocol decode
+listening on eth0, link-type EN10MB (Ethernet), snapshot length 262144 bytes
+15:35:11.642052 IP thinkpad.mshome.net.mdns > mdns.mcast.net.mdns: 0*- [0q] 1/0/2 PTR thinkpad._dosvc._tcp.local. (763)
+E....S....8p............................._dosvc._tcp.local............thinkpad._dosvc._tcp.local..thinkpad._dosvc._tcp.local..!...............thinkpad.local..E.........n.P=256.SH00=COuEdRaWAYgk5h+v.SH01=DdWbiEbMekacR5Fk.SH02=GnFDIhDGY8CbBhDo.SH03=Hw/Y4yTuJhNmdPZf.SH04=IcAbMtg7bFHQL9uy.SH05=MGrmcctEY93ibfR/.SH06=PP6ze2TcPWQCB0Rs.SH07=QZvfswjgVzP7m4nd.SH08=QbBI8F6Q54vkhuLc.SH09=WfTDinKuiUa5bXTH.SH0a=XkbZITzu7911+tL+.SH0b=ZW0bR2gr8R4rmQHI.SH0c=fo6x/Tjql3gKM9BV.SH0d=gG3/TutVp8m7ZkDP.SH0e=q1lObSpzcLkP5zOC.SH0f=tfBFspaT9qjzq3pu.SH10=u9g3hn4jpKRwxdML.SH11=vwU5y3IhjM+o6jw0.SH12=zVOLfmfBVJR7CAZd.SH13=2CCVVD7fFB/qFX4P.SH14=24ajDjtvhH3j63OV.SH15=4NC1pmABGKG1julY.SH16=4OHcAxtnPj2ogYmf.SH17=5p5AHCLGbyHLJFG7.SH18=6U+ll1RwwE1SAP0c.SH19=6790N3Z1c42WKZ7j.SH1a=8LyoLkXU5HUcpT5m.SH1b=93dcSfmsgiea0lCd
+15:35:11.642419 IP6 fe80::c745:565a:6333:a7f7.mdns > ff02::fb.mdns: 0*- [0q] 1/0/2 PTR thinkpad._dosvc._tcp.local. (763)
+`

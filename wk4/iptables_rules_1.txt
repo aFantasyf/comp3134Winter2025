@@ -1,0 +1,117 @@
+aayan@thinkpad:~$ sudo apt-get update
+Hit:1 http://archive.ubuntu.com/ubuntu noble InRelease
+Get:2 http://security.ubuntu.com/ubuntu noble-security InRelease [126 kB]
+Get:3 http://archive.ubuntu.com/ubuntu noble-updates InRelease [126 kB]
+Get:4 http://archive.ubuntu.com/ubuntu noble-backports InRelease [126 kB]
+Get:5 http://security.ubuntu.com/ubuntu noble-security/main amd64 Packages [615 kB]
+Get:6 http://archive.ubuntu.com/ubuntu noble/universe amd64 Packages [15.0 MB]
+Get:7 http://security.ubuntu.com/ubuntu noble-security/main Translation-en [118 kB]
+Get:8 http://security.ubuntu.com/ubuntu noble-security/main amd64 Components [8988 B]
+Get:9 http://security.ubuntu.com/ubuntu noble-security/universe amd64 Packages [803 kB]
+Get:10 http://security.ubuntu.com/ubuntu noble-security/universe Translation-en [171 kB]
+Get:11 http://security.ubuntu.com/ubuntu noble-security/universe amd64 Components [52.0 kB]
+Get:12 http://security.ubuntu.com/ubuntu noble-security/universe amd64 c-n-f Metadata [13.5 kB]
+Get:13 http://security.ubuntu.com/ubuntu noble-security/restricted amd64 Packages [620 kB]
+Get:14 http://security.ubuntu.com/ubuntu noble-security/restricted Translation-en [119 kB]
+Get:15 http://security.ubuntu.com/ubuntu noble-security/restricted amd64 Components [212 B]
+Get:16 http://security.ubuntu.com/ubuntu noble-security/multiverse amd64 Packages [12.4 kB]
+Get:17 http://security.ubuntu.com/ubuntu noble-security/multiverse Translation-en [2940 B]
+Get:18 http://security.ubuntu.com/ubuntu noble-security/multiverse amd64 Components [208 B]
+Get:19 http://security.ubuntu.com/ubuntu noble-security/multiverse amd64 c-n-f Metadata [356 B]
+Get:20 http://archive.ubuntu.com/ubuntu noble/universe Translation-en [5982 kB]
+Get:21 http://archive.ubuntu.com/ubuntu noble/universe amd64 Components [3871 kB]
+Get:22 http://archive.ubuntu.com/ubuntu noble/universe amd64 c-n-f Metadata [301 kB]
+Get:23 http://archive.ubuntu.com/ubuntu noble/multiverse amd64 Packages [269 kB]
+Get:24 http://archive.ubuntu.com/ubuntu noble/multiverse Translation-en [118 kB]
+Get:25 http://archive.ubuntu.com/ubuntu noble/multiverse amd64 Components [35.0 kB]
+Get:26 http://archive.ubuntu.com/ubuntu noble/multiverse amd64 c-n-f Metadata [8328 B]
+Get:27 http://archive.ubuntu.com/ubuntu noble-updates/main amd64 Packages [837 kB]
+Get:28 http://archive.ubuntu.com/ubuntu noble-updates/main Translation-en [190 kB]
+Get:29 http://archive.ubuntu.com/ubuntu noble-updates/main amd64 Components [151 kB]
+Get:30 http://archive.ubuntu.com/ubuntu noble-updates/universe amd64 Packages [1002 kB]
+Get:31 http://archive.ubuntu.com/ubuntu noble-updates/universe Translation-en [250 kB]
+Get:32 http://archive.ubuntu.com/ubuntu noble-updates/universe amd64 Components [315 kB]
+Get:33 http://archive.ubuntu.com/ubuntu noble-updates/universe amd64 c-n-f Metadata [19.9 kB]
+Get:34 http://archive.ubuntu.com/ubuntu noble-updates/restricted amd64 Packages [631 kB]
+Get:35 http://archive.ubuntu.com/ubuntu noble-updates/restricted Translation-en [121 kB]
+Get:36 http://archive.ubuntu.com/ubuntu noble-updates/restricted amd64 Components [212 B]
+Get:37 http://archive.ubuntu.com/ubuntu noble-updates/multiverse amd64 Packages [16.3 kB]
+Get:38 http://archive.ubuntu.com/ubuntu noble-updates/multiverse Translation-en [3944 B]
+Get:39 http://archive.ubuntu.com/ubuntu noble-updates/multiverse amd64 Components [940 B]
+Get:40 http://archive.ubuntu.com/ubuntu noble-updates/multiverse amd64 c-n-f Metadata [552 B]
+Get:41 http://archive.ubuntu.com/ubuntu noble-backports/main amd64 Components [208 B]
+Get:42 http://archive.ubuntu.com/ubuntu noble-backports/main amd64 c-n-f Metadata [112 B]
+Get:43 http://archive.ubuntu.com/ubuntu noble-backports/universe amd64 Packages [13.4 kB]
+Get:44 http://archive.ubuntu.com/ubuntu noble-backports/universe Translation-en [11.4 kB]
+Get:45 http://archive.ubuntu.com/ubuntu noble-backports/universe amd64 Components [17.5 kB]
+Get:46 http://archive.ubuntu.com/ubuntu noble-backports/universe amd64 c-n-f Metadata [1104 B]
+Get:47 http://archive.ubuntu.com/ubuntu noble-backports/restricted amd64 Components [216 B]
+Get:48 http://archive.ubuntu.com/ubuntu noble-backports/restricted amd64 c-n-f Metadata [116 B]
+Get:49 http://archive.ubuntu.com/ubuntu noble-backports/multiverse amd64 Components [212 B]
+Get:50 http://archive.ubuntu.com/ubuntu noble-backports/multiverse amd64 c-n-f Metadata [116 B]
+Fetched 32.1 MB in 10s (3235 kB/s)
+Reading package lists... Done
+aayan@thinkpad:~$ sudo apt-get install iptables
+Reading package lists... Done
+Building dependency tree... Done
+Reading state information... Done
+The following additional packages will be installed:
+  libip4tc2 libip6tc2 libnetfilter-conntrack3 libnfnetlink0 libnftables1 libnftnl11 nftables
+Suggested packages:
+  firewalld
+The following NEW packages will be installed:
+  iptables libip4tc2 libip6tc2 libnetfilter-conntrack3 libnfnetlink0 libnftables1 libnftnl11 nftables
+0 upgraded, 8 newly installed, 0 to remove and 82 not upgraded.
+Need to get 983 kB of archives.
+After this operation, 4274 kB of additional disk space will be used.
+Do you want to continue? [Y/n] y
+Get:1 http://archive.ubuntu.com/ubuntu noble/main amd64 libip4tc2 amd64 1.8.10-3ubuntu2 [23.3 kB]
+Get:2 http://archive.ubuntu.com/ubuntu noble/main amd64 libip6tc2 amd64 1.8.10-3ubuntu2 [23.7 kB]
+Get:3 http://archive.ubuntu.com/ubuntu noble/main amd64 libnfnetlink0 amd64 1.0.2-2build1 [14.8 kB]
+Get:4 http://archive.ubuntu.com/ubuntu noble/main amd64 libnetfilter-conntrack3 amd64 1.0.9-6build1 [45.2 kB]
+Get:5 http://archive.ubuntu.com/ubuntu noble/main amd64 libnftnl11 amd64 1.2.6-2build1 [66.0 kB]
+Get:6 http://archive.ubuntu.com/ubuntu noble/main amd64 iptables amd64 1.8.10-3ubuntu2 [381 kB]
+Get:7 http://archive.ubuntu.com/ubuntu noble/main amd64 libnftables1 amd64 1.0.9-1build1 [358 kB]
+Get:8 http://archive.ubuntu.com/ubuntu noble/main amd64 nftables amd64 1.0.9-1build1 [69.8 kB]
+Fetched 983 kB in 2s (641 kB/s)
+Selecting previously unselected package libip4tc2:amd64.
+(Reading database ... 40794 files and directories currently installed.)
+Preparing to unpack .../0-libip4tc2_1.8.10-3ubuntu2_amd64.deb ...
+Unpacking libip4tc2:amd64 (1.8.10-3ubuntu2) ...
+Selecting previously unselected package libip6tc2:amd64.
+Preparing to unpack .../1-libip6tc2_1.8.10-3ubuntu2_amd64.deb ...
+Unpacking libip6tc2:amd64 (1.8.10-3ubuntu2) ...
+Selecting previously unselected package libnfnetlink0:amd64.
+Preparing to unpack .../2-libnfnetlink0_1.0.2-2build1_amd64.deb ...
+Unpacking libnfnetlink0:amd64 (1.0.2-2build1) ...
+Selecting previously unselected package libnetfilter-conntrack3:amd64.
+Preparing to unpack .../3-libnetfilter-conntrack3_1.0.9-6build1_amd64.deb ...
+Unpacking libnetfilter-conntrack3:amd64 (1.0.9-6build1) ...
+Selecting previously unselected package libnftnl11:amd64.
+Preparing to unpack .../4-libnftnl11_1.2.6-2build1_amd64.deb ...
+Unpacking libnftnl11:amd64 (1.2.6-2build1) ...
+Selecting previously unselected package iptables.
+Preparing to unpack .../5-iptables_1.8.10-3ubuntu2_amd64.deb ...
+Unpacking iptables (1.8.10-3ubuntu2) ...
+Selecting previously unselected package libnftables1:amd64.
+Preparing to unpack .../6-libnftables1_1.0.9-1build1_amd64.deb ...
+Unpacking libnftables1:amd64 (1.0.9-1build1) ...
+Selecting previously unselected package nftables.
+Preparing to unpack .../7-nftables_1.0.9-1build1_amd64.deb ...
+Unpacking nftables (1.0.9-1build1) ...
+Setting up libip4tc2:amd64 (1.8.10-3ubuntu2) ...
+Setting up libip6tc2:amd64 (1.8.10-3ubuntu2) ...
+Setting up libnftnl11:amd64 (1.2.6-2build1) ...
+Setting up libnfnetlink0:amd64 (1.0.2-2build1) ...
+Setting up libnftables1:amd64 (1.0.9-1build1) ...
+Setting up nftables (1.0.9-1build1) ...
+Setting up libnetfilter-conntrack3:amd64 (1.0.9-6build1) ...
+Setting up iptables (1.8.10-3ubuntu2) ...
+update-alternatives: using /usr/sbin/iptables-legacy to provide /usr/sbin/iptables (iptables) in auto mode
+update-alternatives: using /usr/sbin/ip6tables-legacy to provide /usr/sbin/ip6tables (ip6tables) in auto mode
+update-alternatives: using /usr/sbin/iptables-nft to provide /usr/sbin/iptables (iptables) in auto mode
+update-alternatives: using /usr/sbin/ip6tables-nft to provide /usr/sbin/ip6tables (ip6tables) in auto mode
+update-alternatives: using /usr/sbin/arptables-nft to provide /usr/sbin/arptables (arptables) in auto mode
+update-alternatives: using /usr/sbin/ebtables-nft to provide /usr/sbin/ebtables (ebtables) in auto mode
+Processing triggers for man-db (2.12.0-4build2) ...
+Processing triggers for libc-bin (2.39-0ubuntu8.3) ...

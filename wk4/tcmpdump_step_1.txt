@@ -1,0 +1,10 @@
+aayan@thinkpad:~$ sudo tcpdump -i eth0
+tcpdump: verbose output suppressed, use -v[v]... for full protocol decode
+listening on eth0, link-type EN10MB (Ethernet), snapshot length 262144 bytes
+15:32:15.434294 IP 172.22.224.13.49981 > prod-ntp-4.ntp1.ps5.canonical.com.ntp: NTPv4, Client, length 48
+15:32:15.521832 IP prod-ntp-4.ntp1.ps5.canonical.com.ntp > 172.22.224.13.49981: NTPv4, Server, length 48
+15:32:18.496485 ARP, Request who-has thinkpad.mshome.net tell 172.22.224.13, length 28
+15:32:18.496721 ARP, Reply thinkpad.mshome.net is-at 00:15:5d:08:a8:e7 (oui Unknown), length 28
+15:32:18.576494 ARP, Request who-has 172.22.224.13 (00:15:5d:79:30:5f (oui Unknown)) tell thinkpad.mshome.net, length 28
+15:32:18.576509 ARP, Reply 172.22.224.13 is-at 00:15:5d:79:30:5f (oui Unknown), length 28
+15:32:18.854440 IP6 fe80::215:5dff:fe79:305f > ip6-allrouters: ICMP6, router solicitation, length 16

@@ -1,0 +1,4 @@
+aayan@thinkpad:~$ sudo tcpdump -r 0001.pcap
+reading from file 0001.pcap, link-type EN10MB (Ethernet), snapshot length 262144
+15:37:48.205509 IP 172.22.224.13.55860 > prod-ntp-4.ntp1.ps5.canonical.com.ntp: NTPv4, Client, length 48
+15:37:48.295826 IP prod-ntp-4.ntp1.ps5.canonical.com.ntp > 172.22.224.13.55860: NTPv4, Server, length 48
